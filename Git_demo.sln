@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git_demo", "Git_demo\Git_demo.csproj", "{E35AE2BC-7568-4ED3-A351-2F91A3AAEF5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git_Demofold", "Git_Demofold\Git_Demofold.csproj", "{0170F5CC-433F-45D2-92A8-D32D82F0F560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E35AE2BC-7568-4ED3-A351-2F91A3AAEF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35AE2BC-7568-4ED3-A351-2F91A3AAEF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35AE2BC-7568-4ED3-A351-2F91A3AAEF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0170F5CC-433F-45D2-92A8-D32D82F0F560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0170F5CC-433F-45D2-92A8-D32D82F0F560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0170F5CC-433F-45D2-92A8-D32D82F0F560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0170F5CC-433F-45D2-92A8-D32D82F0F560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
